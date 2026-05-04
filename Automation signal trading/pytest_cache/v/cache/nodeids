@@ -1,0 +1,12 @@
+[
+  "tests/test_indicators.py::test_indicators_are_calculated",
+  "tests/test_indicators.py::test_low_level_indicator_shapes",
+  "tests/test_indicators.py::test_support_resistance_uses_current_price_window",
+  "tests/test_market_data.py::test_binance_only_top_symbols_are_sorted_filtered_and_limited",
+  "tests/test_market_data.py::test_tradable_filter_rejects_wide_spread",
+  "tests/test_market_data.py::test_tradable_filter_requires_active_volume_and_spread",
+  "tests/test_news.py::test_parse_rss_and_sentiment",
+  "tests/test_signal_engine.py::test_generates_long_signal_with_multi_tp",
+  "tests/test_storage.py::test_paper_trade_expires",
+  "tests/test_storage.py::test_paper_trade_fill_and_tp"
+]
